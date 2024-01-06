@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 create a page
 > heading <expenses>
 > date should accept only String in the format of DD/MM/YYYY;
 > catogeries try to add drop down 
 > amount should accept double values
+=======
+create a page
+> heading <expenses>
+> date should accept only String in the format of DD/MM/YYYY;
+> catogeries try to add drop down 
+> amount should accept double values
+>>>>>>> 3ec12b8920b4ca2c99248d4614ad92ce5f734790
