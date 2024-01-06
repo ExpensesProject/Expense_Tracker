@@ -12,7 +12,6 @@ public class Expense {
     }
 
     // Getters and setter
-
     public double getAmount() {
         return amount;
     }

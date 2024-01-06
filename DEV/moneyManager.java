@@ -38,5 +38,21 @@ public class moneyManager {
             System.out.println("---------------------");
         }
     }
+
+    public income[] addIncome() {
+        return null;
+    }
+
+    public Expense[] addExpense() {
+        return null;
+    }
+
+    public income[] getIncomes() {
+        return null;
+    }
+
+    public Expense[] getExpenses() {
+        return null;
+    }
 }
 
